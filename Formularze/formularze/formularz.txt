@@ -1,0 +1,11 @@
+<form action="lokalizacja pliku.php" method="post">
+bez method domyslnie jest gets(nie stosowac raczej)
+
+Dane przesylane sa metoda:
+$_GET
+$_POST
+
+Odwolanie sie:
+$zmienna=$_GETS['nazwa'];
+$zmienna=$_POST['nazwa'];
+
