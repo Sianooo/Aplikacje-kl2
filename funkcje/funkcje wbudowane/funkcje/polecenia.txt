@@ -1,0 +1,15 @@
+cw.1
+przy pomocy formularza pobrac 2 liczby calkowite 
+wypisujemy liczby
+wyznaczamy roznoce 
+modoł z roznicy
+pierwiastek z modolu
+zaokragilic do 2 miejsc po przecinku
+otrzymany wynik podnosimy do potegi 3
+pierwiastek
+zaokragalmy w gore
+wynik przedstaw w postaci binaranej, usemkowej i szesnastkowej
+
+cw.2
+pobrac z pliku kat
+wyznaczyc funcje trygonometryczne;
