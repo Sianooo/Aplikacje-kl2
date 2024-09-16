@@ -1,0 +1,10 @@
+rosiek 12
+suchy 5
+sikora 30
+nowak 90
+kowalski 23
+milosny 18
+kubik 25
+zelu 13
+gorzkowski 9
+zareba 23

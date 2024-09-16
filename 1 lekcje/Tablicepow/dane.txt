@@ -1,0 +1,6 @@
+Kowalski, 65
+Nowak, 33
+Suchy, 34
+Machil, 77
+Sanki, 23
+Lalka, 66
