@@ -1,0 +1,15 @@
+setcookie()=>w tym nawiasie moze byc:(nazwa,[wartosc,czas_trwania,sciezka_dostepu,domena,bezpieczenstwo,tylko_http])
+
+$_COOKIE["nazwa_pliku"];
+
+<?php
+setcookie("pismo","Naskróty",time()+3600);
+if(isset($_COOKIE["pismo"]))
+{
+    echo "Jestes naszym stalym klijentem";
+}
+else
+{
+    echo "Witamy po raz pierwszy na stronie";
+}
+?>
